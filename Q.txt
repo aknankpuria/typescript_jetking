@@ -1,0 +1,14 @@
+Q -> 
+1) Write a TypeScript function that can add, subtract, multiply, divide and find the remainder of two numbers. 
+Ans - > this is a coding question so code for the following question is written in 'main.ts' . In the same direcotory .
+
+        # to compile the file we have used `ts-node 'main.ts'` command . to install ts- node  you can use following steps
+           
+            1.  install npm
+            2 . use `npm install -g typescript`
+            3.  use `npm install -g ts-node `
+            4.  use `ts-node main.ts` 
+
+
+
+ # for better understading i have attached some snipshots in 'snipshots' folder . You can reffer to that for output of the 'main.ts' file
